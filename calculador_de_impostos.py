@@ -11,3 +11,4 @@ if __name__ == '__main__':
     orcamento = Orcamento(500)
     calculador.realiza_calculo(orcamento, ISS())
     calculador.realiza_calculo(orcamento, ICMS())
+3
